@@ -10,7 +10,7 @@
 | 超連結             | <img src="https://github.com/c109252216/123/blob/main/002.png" width=100 height=100/>   |
 
 <img src="https://github.com/c109252216/123/blob/main/98777.png" width=500 height=500/>
-https://www.youtube.com/watch?v=KSIwUaDOl3A
+
 # 音樂<br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=KSIwUaDOl3A" target="_blank"><img src="http://img.youtube.com/vi/KSIwUaDOl3A/0.jpg" 
 alt="智慧路燈" width="400" height="250" border="10" /></a>
