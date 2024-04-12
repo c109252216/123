@@ -1,6 +1,3 @@
-<img src="https://github.com/c109252216/123/blob/main/002.png" width=100 height=100/>
-
-
 
 |      履歷        |<img src="https://github.com/c109252216/123/blob/main/987.png" width=100 height=100/>|
 | ---------------- |:-----------------------------:|
